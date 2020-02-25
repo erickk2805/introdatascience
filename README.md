@@ -2,4 +2,4 @@
 
 
 ## WIE2003 Introduction to Data Science
-## Eric Kamalesh Kumar (WIE180013)
+### Eric Kamalesh Kumar (WIE180013)

@@ -1,5 +1,3 @@
-# INTRODATASCIENCE
-
-
-## WIE2003 Introduction to Data Science
-### Eric Kamalesh Kumar (WIE180013)
+## This is a markdown file
+## HELLO WORLD
+## It Is GREAT to be alive and be a part of humanity
